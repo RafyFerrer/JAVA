@@ -1,0 +1,8 @@
+en la Shell del Sistema Operativo
+
+ .....>javac *.java
+
+Para ejecutar el softwar, como la clase principal se llama Principal (class Principal) igual que el nombre del archivo:
+
+ ....>java Principal
+
